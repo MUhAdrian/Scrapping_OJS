@@ -1,5 +1,4 @@
-#KElompok
-
+# KElompok
 - FIkri FIrmansyah.
 - Endang sirait.
 - Theresia tababan.
