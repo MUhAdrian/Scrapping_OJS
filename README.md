@@ -1,3 +1,10 @@
+#KElompok
+MUH.aDrian A.F 312310648
+FIkri FIrmansyah
+Endang sirait
+Theresia tababan
+
+
 # 📚 Academic Publication Collector (OJS Scraper)
 
 Proyek ini adalah program *Web Scraper* berbasis Command Line Interface (CLI) yang dibangun menggunakan Python. Program ini dirancang khusus untuk mengumpulkan metadata publikasi akademik (Judul, Penulis, Tanggal, dan URL) dari portal jurnal yang menggunakan sistem **Open Journal Systems (OJS)**.
