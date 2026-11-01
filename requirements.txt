@@ -1,0 +1,3 @@
+you only need 2 library :
+requests
+beautifulsoup4
