@@ -1,7 +1,6 @@
 # KElompok
-- FIkri FIrmansyah.
-- Endang sirait.
-- Theresia tababan.
+- M. Fiqri FIrmansyah. 312310629
+- Endang sirait. 312310588
 - MUH.aDrian A.F 312310648.
 
 # 📚 Academic Publication Collector (OJS Scraper)
